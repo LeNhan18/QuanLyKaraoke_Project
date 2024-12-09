@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c7a4551c9b3d41df96533adaaecb56b7" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.CHI_TIET_HOA_DON_BAN" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.CHI_TIET_HOA_DON_NHAP" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.DON_VI_TINH" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.HOA_DON_BAN_HANG" Width="1.5" PointX="3" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.HOA_DON_NHAP" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.LOAI_PHONG" Width="1.5" PointX="1.5" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.MAT_HANG" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.NHA_CUNG_CAP" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.NHAN_VIEN" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.PHONG" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKaraokeModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_CHI_TIET_HOA_DON_BAN_HOA_DON_BAN_HANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_CHI_TIET_HOA_DON_BAN_MAT_HANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_CHI_TIET_HOA_DON_NHAP_HOA_DON_NHAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_CHI_TIET_HOA_DON_NHAP_MAT_HANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_MAT_HANG_DON_VI_TINH" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_HOA_DON_BAN_HANG_PHONG" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_HOA_DON_NHAP_NHA_CUNG_CAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKaraokeModel.FK_PHONG_LOAI_PHONG" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
