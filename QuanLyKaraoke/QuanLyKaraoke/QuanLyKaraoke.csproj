@@ -97,6 +97,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ModelQuanLyKaraoke.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Nhanle.cs" />
     <Compile Include="NHAN_VIEN.cs">
       <DependentUpon>ModelQuanLyKaraoke.tt</DependentUpon>
     </Compile>

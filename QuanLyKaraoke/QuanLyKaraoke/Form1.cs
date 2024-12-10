@@ -15,6 +15,8 @@ namespace QuanLyKaraoke
         public Form1()
         {
             InitializeComponent();
+            
+            
         }
     }
 }
