@@ -64,12 +64,6 @@
     <Compile Include="DON_VI_TINH.cs">
       <DependentUpon>ModelQuanLyKaraoke.tt</DependentUpon>
     </Compile>
-    <Compile Include="Form999.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form999.Designer.cs">
-      <DependentUpon>Form999.cs</DependentUpon>
-    </Compile>
     <Compile Include="HOA_DON_BAN_HANG.cs">
       <DependentUpon>ModelQuanLyKaraoke.tt</DependentUpon>
     </Compile>
