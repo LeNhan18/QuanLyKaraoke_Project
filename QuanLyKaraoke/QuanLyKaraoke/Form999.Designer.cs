@@ -1,6 +1,6 @@
 ﻿namespace QuanLyKaraoke
 {
-    partial class Form1
+    partial class Form999
     {
         /// <summary>
         /// Required designer variable.

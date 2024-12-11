@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QuanLyKaraoke
 {
-    public partial class Form1 : Form
+    public partial class Form999 : Form
     {
-        public Form1()
+        public Form999()
         {
             InitializeComponent();
         }

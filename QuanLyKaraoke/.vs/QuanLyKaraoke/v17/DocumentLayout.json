@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\QuanLyKaraoke\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke\\quanlykaraoke\\modelquanlykaraoke.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|solutionrelative:quanlykaraoke\\modelquanlykaraoke.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke\\quanlykaraoke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|solutionrelative:quanlykaraoke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke\\quanlykaraoke\\form999.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9473DFE0-6A6C-4EBF-A138-756F444672FE}|QuanLyKaraoke\\QuanLyKaraoke.csproj|solutionrelative:quanlykaraoke\\form999.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ModelQuanLyKaraoke.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyKaraoke\\QuanLyKaraoke\\ModelQuanLyKaraoke.edmx",
-              "RelativeDocumentMoniker": "QuanLyKaraoke\\ModelQuanLyKaraoke.edmx",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyKaraoke\\QuanLyKaraoke\\ModelQuanLyKaraoke.edmx [Diagram1]",
-              "RelativeToolTip": "QuanLyKaraoke\\ModelQuanLyKaraoke.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-09T09:16:14.317Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyKaraoke\\QuanLyKaraoke\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke\\Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyKaraoke\\QuanLyKaraoke\\Form1.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke\\Form1.cs [Design]",
+              "Title": "Form999.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke\\QuanLyKaraoke\\Form999.cs",
+              "RelativeDocumentMoniker": "QuanLyKaraoke\\Form999.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke\\QuanLyKaraoke\\Form999.cs [Design]",
+              "RelativeToolTip": "QuanLyKaraoke\\Form999.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:02:31.382Z",
+              "WhenOpened": "2024-12-11T13:48:14.05Z",
               "EditorCaption": " [Design]"
             }
           ]
