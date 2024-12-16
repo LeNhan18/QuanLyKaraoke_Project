@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\bin\Debug\QuanLyKaraoke_New_Project.exe.config
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\bin\Debug\QuanLyKaraoke_New_Project.exe
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\bin\Debug\QuanLyKaraoke_New_Project.pdb
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.Frm_MainWindow.resources
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.exe
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.pdb
+C:\Users\ADMIN\source\repos\QuanLyKaraoke_New_Project\QuanLyKaraoke_New_Project\obj\Debug\QuanLyKaraoke_New_Project.frm_QuanLyLoaiPhong.resources
