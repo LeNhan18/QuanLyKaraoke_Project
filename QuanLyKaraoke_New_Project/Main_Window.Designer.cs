@@ -36,6 +36,9 @@
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridView_SanPham = new System.Windows.Forms.DataGridView();
+            this.col_STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.col_TenSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.col_DonGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.sửDụngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tínhTiềnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -53,9 +56,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.col_STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.col_TenSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.col_DonGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPhamDaChon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPham)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
@@ -122,12 +123,33 @@
             this.col_STT,
             this.col_TenSanPham,
             this.col_DonGia});
-            this.dataGridView_SanPham.Location = new System.Drawing.Point(883, 46);
+            this.dataGridView_SanPham.Location = new System.Drawing.Point(860, 46);
             this.dataGridView_SanPham.Name = "dataGridView_SanPham";
             this.dataGridView_SanPham.RowHeadersWidth = 51;
             this.dataGridView_SanPham.RowTemplate.Height = 24;
-            this.dataGridView_SanPham.Size = new System.Drawing.Size(419, 504);
+            this.dataGridView_SanPham.Size = new System.Drawing.Size(419, 551);
             this.dataGridView_SanPham.TabIndex = 1;
+            // 
+            // col_STT
+            // 
+            this.col_STT.HeaderText = "STT";
+            this.col_STT.MinimumWidth = 6;
+            this.col_STT.Name = "col_STT";
+            this.col_STT.Width = 50;
+            // 
+            // col_TenSanPham
+            // 
+            this.col_TenSanPham.HeaderText = "Tên Sản Phẩm";
+            this.col_TenSanPham.MinimumWidth = 6;
+            this.col_TenSanPham.Name = "col_TenSanPham";
+            this.col_TenSanPham.Width = 125;
+            // 
+            // col_DonGia
+            // 
+            this.col_DonGia.HeaderText = "Đơn Giá";
+            this.col_DonGia.MinimumWidth = 6;
+            this.col_DonGia.Name = "col_DonGia";
+            this.col_DonGia.Width = 125;
             // 
             // contextMenuStrip1
             // 
@@ -162,12 +184,13 @@
             this.dataGridView_Phong.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView_Phong.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.col_Phong});
-            this.dataGridView_Phong.Location = new System.Drawing.Point(211, 92);
+            this.dataGridView_Phong.Location = new System.Drawing.Point(15, 46);
             this.dataGridView_Phong.Name = "dataGridView_Phong";
             this.dataGridView_Phong.RowHeadersWidth = 51;
             this.dataGridView_Phong.RowTemplate.Height = 24;
-            this.dataGridView_Phong.Size = new System.Drawing.Size(302, 222);
+            this.dataGridView_Phong.Size = new System.Drawing.Size(814, 317);
             this.dataGridView_Phong.TabIndex = 14;
+            this.dataGridView_Phong.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_Phong_CellContentClick);
             // 
             // col_Phong
             // 
@@ -190,7 +213,7 @@
             // quảnLýLoạiPhòngToolStripMenuItem
             // 
             this.quảnLýLoạiPhòngToolStripMenuItem.Name = "quảnLýLoạiPhòngToolStripMenuItem";
-            this.quảnLýLoạiPhòngToolStripMenuItem.Size = new System.Drawing.Size(153, 26);
+            this.quảnLýLoạiPhòngToolStripMenuItem.Size = new System.Drawing.Size(153, 24);
             this.quảnLýLoạiPhòngToolStripMenuItem.Text = "Quản Lý Loại Phòng";
             this.quảnLýLoạiPhòngToolStripMenuItem.Click += new System.EventHandler(this.quảnLýLoạiPhòngToolStripMenuItem_Click);
             // 
@@ -274,39 +297,19 @@
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Location = new System.Drawing.Point(578, 351);
+            this.groupBox1.Location = new System.Drawing.Point(571, 383);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(258, 214);
             this.groupBox1.TabIndex = 26;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tổng Hợp Tiền Dịch Vụ";
-            // 
-            // col_STT
-            // 
-            this.col_STT.HeaderText = "STT";
-            this.col_STT.MinimumWidth = 6;
-            this.col_STT.Name = "col_STT";
-            this.col_STT.Width = 50;
-            // 
-            // col_TenSanPham
-            // 
-            this.col_TenSanPham.HeaderText = "Tên Sản Phẩm";
-            this.col_TenSanPham.MinimumWidth = 6;
-            this.col_TenSanPham.Name = "col_TenSanPham";
-            this.col_TenSanPham.Width = 125;
-            // 
-            // col_DonGia
-            // 
-            this.col_DonGia.HeaderText = "Đơn Giá";
-            this.col_DonGia.MinimumWidth = 6;
-            this.col_DonGia.Name = "col_DonGia";
-            this.col_DonGia.Width = 125;
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // Frm_MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1302, 562);
+            this.ClientSize = new System.Drawing.Size(1302, 780);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txt_GioVao);
             this.Controls.Add(this.label2);
@@ -360,6 +363,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn col_STT;
         private System.Windows.Forms.DataGridViewTextBoxColumn col_TenSanPham;
         private System.Windows.Forms.DataGridViewTextBoxColumn col_DonGia;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

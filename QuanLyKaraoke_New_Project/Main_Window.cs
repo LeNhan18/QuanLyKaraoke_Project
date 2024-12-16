@@ -27,5 +27,15 @@ namespace QuanLyKaraoke_New_Project
             frm_QuanLyLoaiPhong frm = new frm_QuanLyLoaiPhong();
             frm.Show();
         }
+
+        private void dataGridView_Phong_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
