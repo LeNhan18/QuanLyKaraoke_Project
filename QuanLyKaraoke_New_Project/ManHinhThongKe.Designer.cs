@@ -216,7 +216,7 @@
             this.guna2Panel3.Name = "guna2Panel3";
             this.guna2Panel3.Size = new System.Drawing.Size(894, 33);
             this.guna2Panel3.TabIndex = 6;
-            this.guna2Panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel3_Paint);
+            //this.guna2Panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel3_Paint);
             // 
             // label2
             // 
@@ -227,7 +227,7 @@
             this.label2.Size = new System.Drawing.Size(170, 20);
             this.label2.TabIndex = 5;
             this.label2.Text = "Thống Kê Bán Hàng";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            //this.label2.Click += new System.EventHandler(this.label2.Click);
             // 
             // guna2Panel4
             // 
@@ -298,7 +298,7 @@
             this.label7.Size = new System.Drawing.Size(111, 20);
             this.label7.TabIndex = 0;
             this.label7.Text = "Ngày bắt đầu :";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
+            //this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label8
             // 
@@ -309,7 +309,7 @@
             this.label8.Size = new System.Drawing.Size(114, 20);
             this.label8.TabIndex = 1;
             this.label8.Text = "Ngày kết thúc :";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+            //this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // guna2DateTimePicker1
             // 
@@ -323,7 +323,7 @@
             this.guna2DateTimePicker1.Size = new System.Drawing.Size(200, 36);
             this.guna2DateTimePicker1.TabIndex = 2;
             this.guna2DateTimePicker1.Value = new System.DateTime(2024, 12, 17, 22, 38, 50, 335);
-            this.guna2DateTimePicker1.ValueChanged += new System.EventHandler(this.guna2DateTimePicker1_ValueChanged);
+            //this.guna2DateTimePicker1.ValueChanged += new System.EventHandler(this.guna2DateTimePicker1_ValueChanged);
             // 
             // guna2DateTimePicker2
             // 
@@ -364,7 +364,7 @@
             this.guna2CustomGradientPanel2.Name = "guna2CustomGradientPanel2";
             this.guna2CustomGradientPanel2.Size = new System.Drawing.Size(891, 36);
             this.guna2CustomGradientPanel2.TabIndex = 5;
-            this.guna2CustomGradientPanel2.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2CustomGradientPanel2_Paint);
+            //this.guna2CustomGradientPanel2.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2CustomGradientPanel2_Paint);
             // 
             // label9
             // 
