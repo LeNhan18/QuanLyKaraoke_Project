@@ -36,6 +36,9 @@
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridView_SanPham = new System.Windows.Forms.DataGridView();
+            this.col_STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.col_TenSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.col_DonGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.sửDụngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tínhTiềnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -53,9 +56,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.col_STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.col_TenSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.col_DonGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPhamDaChon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPham)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
@@ -129,6 +129,27 @@
             this.dataGridView_SanPham.Size = new System.Drawing.Size(419, 504);
             this.dataGridView_SanPham.TabIndex = 1;
             // 
+            // col_STT
+            // 
+            this.col_STT.HeaderText = "STT";
+            this.col_STT.MinimumWidth = 6;
+            this.col_STT.Name = "col_STT";
+            this.col_STT.Width = 50;
+            // 
+            // col_TenSanPham
+            // 
+            this.col_TenSanPham.HeaderText = "Tên Sản Phẩm";
+            this.col_TenSanPham.MinimumWidth = 6;
+            this.col_TenSanPham.Name = "col_TenSanPham";
+            this.col_TenSanPham.Width = 125;
+            // 
+            // col_DonGia
+            // 
+            this.col_DonGia.HeaderText = "Đơn Giá";
+            this.col_DonGia.MinimumWidth = 6;
+            this.col_DonGia.Name = "col_DonGia";
+            this.col_DonGia.Width = 125;
+            // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
@@ -190,7 +211,7 @@
             // quảnLýLoạiPhòngToolStripMenuItem
             // 
             this.quảnLýLoạiPhòngToolStripMenuItem.Name = "quảnLýLoạiPhòngToolStripMenuItem";
-            this.quảnLýLoạiPhòngToolStripMenuItem.Size = new System.Drawing.Size(153, 26);
+            this.quảnLýLoạiPhòngToolStripMenuItem.Size = new System.Drawing.Size(153, 24);
             this.quảnLýLoạiPhòngToolStripMenuItem.Text = "Quản Lý Loại Phòng";
             this.quảnLýLoạiPhòngToolStripMenuItem.Click += new System.EventHandler(this.quảnLýLoạiPhòngToolStripMenuItem_Click);
             // 
@@ -281,27 +302,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tổng Hợp Tiền Dịch Vụ";
             // 
-            // col_STT
-            // 
-            this.col_STT.HeaderText = "STT";
-            this.col_STT.MinimumWidth = 6;
-            this.col_STT.Name = "col_STT";
-            this.col_STT.Width = 50;
-            // 
-            // col_TenSanPham
-            // 
-            this.col_TenSanPham.HeaderText = "Tên Sản Phẩm";
-            this.col_TenSanPham.MinimumWidth = 6;
-            this.col_TenSanPham.Name = "col_TenSanPham";
-            this.col_TenSanPham.Width = 125;
-            // 
-            // col_DonGia
-            // 
-            this.col_DonGia.HeaderText = "Đơn Giá";
-            this.col_DonGia.MinimumWidth = 6;
-            this.col_DonGia.Name = "col_DonGia";
-            this.col_DonGia.Width = 125;
-            // 
             // Frm_MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -318,6 +318,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Frm_MainWindow";
             this.Text = "Main Window";
+            this.Load += new System.EventHandler(this.Frm_MainWindow_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPhamDaChon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_SanPham)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
