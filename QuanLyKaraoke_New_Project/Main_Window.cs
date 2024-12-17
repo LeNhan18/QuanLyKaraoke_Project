@@ -37,5 +37,16 @@ namespace QuanLyKaraoke_New_Project
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            ManHinhThongKe a = new ManHinhThongKe();
+            a.Show();
+        }
     }
 }
