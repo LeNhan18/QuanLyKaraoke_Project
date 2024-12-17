@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\manhinhdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\manhinhdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\manhinhchinhsuaphonghat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\manhinhchinhsuaphonghat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\chuyenphongdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\chuyenphongdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\main_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\main_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\quanlyloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\quanlyloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\manhinhthemkhachhangdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\manhinhthemkhachhangdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|c:\\users\\admin\\source\\repos\\quanlykaraoke_project\\quanlykaraoke_new_project\\manhinhthemkhachhangdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BE03AB9-75CF-4DD9-BFF3-2CC412F5F069}|QuanLyKaraoke_New_Project\\QuanLyKaraoke_New_Project.csproj|solutionrelative:quanlykaraoke_new_project\\manhinhthemkhachhangdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,89 +24,8 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManHinhDatPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\ManHinhDatPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\ManHinhDatPhong.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\ManHinhDatPhong.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\ManHinhDatPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:12:47.539Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main_Window.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Main_Window.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\Main_Window.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Main_Window.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\Main_Window.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:11:50.407Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChuyenphongDialog.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\ChuyenphongDialog.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\ChuyenphongDialog.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\ChuyenphongDialog.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\ChuyenphongDialog.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:11:49.236Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanLyLoaiPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\QuanLyLoaiPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\QuanLyLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\QuanLyLoaiPhong.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\QuanLyLoaiPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:11:43.541Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Manhinhthemkhachhangdatphong.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:09:23.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Manhinhchinhsuaphonghat.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhchinhsuaphonghat.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\Manhinhchinhsuaphonghat.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhchinhsuaphonghat.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\Manhinhchinhsuaphonghat.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:05:35.127Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Manhinhthemkhachhangdatphong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "RelativeDocumentMoniker": "QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLyKaraoke_Project\\QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs [Design]",
-              "RelativeToolTip": "QuanLyKaraoke_New_Project\\Manhinhthemkhachhangdatphong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:00:38.429Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
