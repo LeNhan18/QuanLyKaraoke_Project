@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\bin\Debug\Assistant.exe.config
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\bin\Debug\Assistant.exe
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\bin\Debug\Assistant.pdb
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\obj\Debug\Assistant.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\obj\Debug\Assistant.exe
+C:\Users\Admin\Downloads\QUANLY_KARAOKE_PROJECT-20241221T131309Z-001\QUANLY_KARAOKE_PROJECT\Assistant\obj\Debug\Assistant.pdb
